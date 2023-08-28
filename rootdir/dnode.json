@@ -1,0 +1,11 @@
+{
+	"index": {
+		"user": {
+			"fs_type": "dir"
+		},
+		"sys": {
+			"fs_type": "dir",
+			"modified_date": 1693142767000
+		}
+	}
+}

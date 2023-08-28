@@ -1,0 +1,29 @@
+{
+	"index": {
+		"credits.json": {
+			"fs_type": "file",
+			"descriptor": "credits.json",
+			"api_type": "json"
+		},
+		"the-way-home.mp3": {
+			"fs_type": "file",
+			"descriptor": "the-way-home.mp3",
+			"api_type": "blob"
+		},
+		"battle-of-the-dragons.mp3": {
+			"fs_type": "file",
+			"descriptor": "battle-of-the-dragons.mp3",
+			"api_type": "blob"
+		},
+		"cinematic-chillhop-main.mp3": {
+			"fs_type": "file",
+			"descriptor": "cinematic-chillhop-main.mp3",
+			"api_type": "blob"
+		},
+		"funk-it.mp3": {
+			"fs_type": "file",
+			"descriptor": "funk-it.mp3",
+			"api_type": "blob"
+		}
+	}
+}
