@@ -9,6 +9,11 @@
 			"fs_type": "executable",
 			"descriptor": "editor"
 		},
+		"redirect.exe": {
+			"fs_type": "executable",
+			"descriptor": "redirect",
+			"modified_date": 1693845589000
+		},
 		"tune.exe": {
 			"fs_type": "executable",
 			"descriptor": "tune"
