@@ -3,7 +3,7 @@
 		"lander.exe": {
 			"fs_type": "executable",
 			"descriptor": "lander",
-			"modified_date": 1694538956,
+			"modified_date": 1694538956000,
 			"hidden": false
 		}
 	}
