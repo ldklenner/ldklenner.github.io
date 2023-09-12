@@ -1,0 +1,9 @@
+{
+	"index": {
+		"img.jpg": {
+			"fs_type": "file",
+			"descriptor": "img.html",
+			"api_type": "html"
+		}
+	}
+}

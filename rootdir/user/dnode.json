@@ -1,23 +1,17 @@
 {
 	"index": {
-		"readme.txt": {
-			"fs_type": "file",
-			"descriptor": "readme.txt",
-			"api_type": "text"
-		},
-		"img.jpg": {
-			"fs_type": "file",
-			"descriptor": "img.html",
-			"api_type": "html"
-		},
-		"doc.md": {
-			"fs_type": "file",
-			"descriptor": "document.md",
-			"api_type": "md"
-		},
 		"first.exe": {
 			"fs_type": "executable",
 			"descriptor": "first"
+		},
+		"documents": {
+			"fs_type": "dir"
+		},
+		"images": {
+			"fs_type": "dir"
+		},
+		"games": {
+			"fs_type": "dir"
 		},
 		"music": {
 			"fs_type": "dir"

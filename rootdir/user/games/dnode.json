@@ -1,0 +1,9 @@
+{
+	"index": {
+		"lander.exe": {
+			"fs_type": "executable",
+			"descriptor": "lander",
+			"hidden": false
+		}
+	}
+}

@@ -1,10 +1,5 @@
 {
 	"index": {
-		"canvas.exe": {
-			"fs_type": "executable",
-			"descriptor": "canvas",
-			"hidden": true
-		},
 		"editor.exe": {
 			"fs_type": "executable",
 			"descriptor": "editor"

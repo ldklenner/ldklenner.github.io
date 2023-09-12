@@ -1,0 +1,14 @@
+{
+	"index": {
+		"readme.txt": {
+			"fs_type": "file",
+			"descriptor": "readme.txt",
+			"api_type": "text"
+		},
+		"doc.md": {
+			"fs_type": "file",
+			"descriptor": "document.md",
+			"api_type": "md"
+		}
+	}
+}
