@@ -11,7 +11,8 @@
 			"fs_type": "dir"
 		},
 		"games": {
-			"fs_type": "dir"
+			"fs_type": "dir",
+			"modified_date": 1694538956
 		},
 		"music": {
 			"fs_type": "dir"
