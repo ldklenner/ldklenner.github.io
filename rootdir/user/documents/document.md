@@ -2,6 +2,16 @@
 
 This is a paragraph.
 
+## Emphasis
+Emphasis, aka italics, with *asterisks* or _underscores_.
+
+Strong emphasis, aka bold, with **asterisks** or __underscores__.
+
+Combined emphasis with **asterisks and _underscores_**.
+
+Strikethrough uses two tildes. ~~Scratch this.~~
+
+## Lists
 * This is a list
 * With two items
   1. And a sublist
@@ -9,15 +19,25 @@ This is a paragraph.
     * With another
     * Sublist inside
 
-| And this is | | A table |
-|-------------|-|---------|
-| With three  | | columns |
-| Third       | | column  |
+## Tables
+| Tables        | Are           | Cool  |
+|:------------- |:-------------:| -----:|
+| col 1 is      | left-aligned  | $1600 |
+| col 2 is      | centered      |   $12 |
+| col 3 is 		 | right-aligned |    $1 |
 
-`code`
+## Code
+This is an inline `code` element.
 
+This is a code block element.
 ```
 int x = 1;
 ```
 
-> blockquote
+## Blockquotes
+> This is a blockquote. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo
+
+## Links
+[I'm an inline-style link](https://www.google.com)
+
+---
