@@ -12,6 +12,10 @@
 		"tune.exe": {
 			"fs_type": "executable",
 			"descriptor": "tune"
+		},
+		"net": {
+			"fs_type": "dir",
+			"modified_date": 1727963215248
 		}
 	}
 }
